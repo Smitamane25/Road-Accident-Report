@@ -8,7 +8,7 @@
 This project focuses on analyzing road accident data to identify key trends and factors that contribute to accidents, allowing for data-driven decisions to improve road safety. The dashboard offers interactive visualizations and insights derived from real-time or historical data sets
 
 
- # Report Snapshot (Power BI DESKTOP)
+ # Report Snapshot
 
  
 ![Screenshot 2024-10-07 111143](https://github.com/user-attachments/assets/7454c1e7-204a-4add-9be4-8aa7a847f741)
